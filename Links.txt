@@ -1,0 +1,7 @@
+Link para acessar o projeto da versionOne
+
+https://www8.v1host.com/UniversidadeFederalDaFronteiraSul/
+
+Fork do projeto no github
+
+https://github.com/arieldll/sitecc/
