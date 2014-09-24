@@ -21,8 +21,8 @@ $ambientes = array (
     'host'     => 'http://localhost/sitecc-master/', 
     'dbhost'   => 'localhost',
     'database' => 'sitecc',
-    'user'     => 'teste',
-    'pass'     => 'teste'
+    'user'     => 'root',
+    'pass'     => ''
   ),
   'producao' => array (
     'host'     => 'http://staging-esuffs.rhcloud.com', 
