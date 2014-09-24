@@ -1,0 +1,887 @@
+[27-Aug-2014 17:42:44 UTC] PHP Notice:  Undefined variable: temPeloMenosUmaImagem in C:\xampp\htdocs\sitecc-master\wp-content\themes\sitecc\templates\header-top-navbar.php on line 32
+[27-Aug-2014 17:45:46 UTC] PHP Notice:  Undefined variable: temPeloMenosUmaImagem in C:\xampp\htdocs\sitecc-master\wp-content\themes\sitecc\templates\header-top-navbar.php on line 32
+[27-Aug-2014 17:52:29 UTC] PHP Notice:  Undefined variable: temPeloMenosUmaImagem in C:\xampp\htdocs\sitecc-master\wp-content\themes\sitecc\templates\header-top-navbar.php on line 32
+[27-Aug-2014 17:53:35 UTC] PHP Notice:  Undefined variable: temPeloMenosUmaImagem in C:\xampp\htdocs\sitecc-master\wp-content\themes\sitecc\templates\header-top-navbar.php on line 32
+[27-Aug-2014 18:07:03 UTC] PHP Notice:  Undefined variable: temPeloMenosUmaImagem in C:\xampp\htdocs\sitecc-master\wp-content\themes\sitecc\templates\header-top-navbar.php on line 32
+[27-Aug-2014 18:07:10 UTC] PHP Notice:  Undefined variable: temPeloMenosUmaImagem in C:\xampp\htdocs\sitecc-master\wp-content\themes\sitecc\templates\header-top-navbar.php on line 32
+[27-Aug-2014 18:08:54 UTC] PHP Notice:  Undefined variable: temPeloMenosUmaImagem in C:\xampp\htdocs\sitecc-master\wp-content\themes\sitecc\templates\header-top-navbar.php on line 32
+[27-Aug-2014 18:15:41 UTC] PHP Notice:  Undefined variable: temPeloMenosUmaImagem in C:\xampp\htdocs\sitecc-master\wp-content\themes\sitecc\templates\header-top-navbar.php on line 32
+[27-Aug-2014 18:15:41 UTC] PHP Notice:  Undefined variable: temPeloMenosUmaImagem in C:\xampp\htdocs\sitecc-master\wp-content\themes\sitecc\templates\header-top-navbar.php on line 32
+[27-Aug-2014 18:19:44 UTC] PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\sitecc-master\wp-includes\capabilities.php on line 1102
+[27-Aug-2014 18:19:44 UTC] PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\sitecc-master\wp-includes\capabilities.php on line 1102
+[27-Aug-2014 18:19:44 UTC] PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\sitecc-master\wp-includes\capabilities.php on line 1102
+[27-Aug-2014 18:19:51 UTC] PHP Notice:  Undefined variable: temPeloMenosUmaImagem in C:\xampp\htdocs\sitecc-master\wp-content\themes\sitecc\templates\header-top-navbar.php on line 32
+[27-Aug-2014 18:19:59 UTC] PHP Notice:  Undefined variable: temPeloMenosUmaImagem in C:\xampp\htdocs\sitecc-master\wp-content\themes\sitecc\templates\header-top-navbar.php on line 32
+[27-Aug-2014 18:20:17 UTC] PHP Notice:  Undefined variable: temPeloMenosUmaImagem in C:\xampp\htdocs\sitecc-master\wp-content\themes\sitecc\templates\header-top-navbar.php on line 32
+[27-Aug-2014 18:20:32 UTC] PHP Notice:  Undefined variable: temPeloMenosUmaImagem in C:\xampp\htdocs\sitecc-master\wp-content\themes\sitecc\templates\header-top-navbar.php on line 32
+[27-Aug-2014 19:02:11 UTC] PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\sitecc-master\wp-includes\capabilities.php on line 1102
+[27-Aug-2014 19:02:11 UTC] PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\sitecc-master\wp-includes\capabilities.php on line 1102
+[27-Aug-2014 19:02:11 UTC] PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\sitecc-master\wp-includes\capabilities.php on line 1102
+[27-Aug-2014 19:02:12 UTC] SSL certificate problem, verify that the CA cert is OK. Retrying with the CA cert bundle from google-api-php-client.
+[27-Aug-2014 19:02:13 UTC] SSL certificate problem, verify that the CA cert is OK. Retrying with the CA cert bundle from google-api-php-client.
+[27-Aug-2014 19:02:13 UTC] SSL certificate problem, verify that the CA cert is OK. Retrying with the CA cert bundle from google-api-php-client.
+[27-Aug-2014 19:02:13 UTC] SSL certificate problem, verify that the CA cert is OK. Retrying with the CA cert bundle from google-api-php-client.
+[27-Aug-2014 19:02:14 UTC] SSL certificate problem, verify that the CA cert is OK. Retrying with the CA cert bundle from google-api-php-client.
+[27-Aug-2014 19:02:14 UTC] SSL certificate problem, verify that the CA cert is OK. Retrying with the CA cert bundle from google-api-php-client.
+[27-Aug-2014 19:02:15 UTC] SSL certificate problem, verify that the CA cert is OK. Retrying with the CA cert bundle from google-api-php-client.
+[27-Aug-2014 19:02:15 UTC] SSL certificate problem, verify that the CA cert is OK. Retrying with the CA cert bundle from google-api-php-client.
+[27-Aug-2014 19:02:15 UTC] SSL certificate problem, verify that the CA cert is OK. Retrying with the CA cert bundle from google-api-php-client.
+[27-Aug-2014 19:02:16 UTC] SSL certificate problem, verify that the CA cert is OK. Retrying with the CA cert bundle from google-api-php-client.
+[27-Aug-2014 19:02:16 UTC] SSL certificate problem, verify that the CA cert is OK. Retrying with the CA cert bundle from google-api-php-client.
+[27-Aug-2014 19:02:17 UTC] SSL certificate problem, verify that the CA cert is OK. Retrying with the CA cert bundle from google-api-php-client.
+[27-Aug-2014 19:02:18 UTC] SSL certificate problem, verify that the CA cert is OK. Retrying with the CA cert bundle from google-api-php-client.
+[27-Aug-2014 19:02:18 UTC] SSL certificate problem, verify that the CA cert is OK. Retrying with the CA cert bundle from google-api-php-client.
+[27-Aug-2014 19:02:18 UTC] SSL certificate problem, verify that the CA cert is OK. Retrying with the CA cert bundle from google-api-php-client.
+[27-Aug-2014 19:02:19 UTC] SSL certificate problem, verify that the CA cert is OK. Retrying with the CA cert bundle from google-api-php-client.
+[27-Aug-2014 19:02:20 UTC] SSL certificate problem, verify that the CA cert is OK. Retrying with the CA cert bundle from google-api-php-client.
+[27-Aug-2014 19:02:20 UTC] SSL certificate problem, verify that the CA cert is OK. Retrying with the CA cert bundle from google-api-php-client.
+[27-Aug-2014 19:02:21 UTC] SSL certificate problem, verify that the CA cert is OK. Retrying with the CA cert bundle from google-api-php-client.
+[27-Aug-2014 19:02:21 UTC] SSL certificate problem, verify that the CA cert is OK. Retrying with the CA cert bundle from google-api-php-client.
+[27-Aug-2014 19:02:21 UTC] SSL certificate problem, verify that the CA cert is OK. Retrying with the CA cert bundle from google-api-php-client.
+[27-Aug-2014 19:04:14 UTC] PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\sitecc-master\wp-includes\capabilities.php on line 1102
+[27-Aug-2014 19:04:14 UTC] PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\sitecc-master\wp-includes\capabilities.php on line 1102
+[27-Aug-2014 19:04:14 UTC] PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\sitecc-master\wp-includes\capabilities.php on line 1102
+[27-Aug-2014 19:04:14 UTC] PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\sitecc-master\wp-includes\capabilities.php on line 1102
+[27-Aug-2014 19:04:14 UTC] PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\sitecc-master\wp-includes\capabilities.php on line 1102
+[27-Aug-2014 19:04:14 UTC] PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\sitecc-master\wp-includes\capabilities.php on line 1102
+[27-Aug-2014 19:04:14 UTC] PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\sitecc-master\wp-includes\capabilities.php on line 1102
+[27-Aug-2014 19:04:14 UTC] PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\sitecc-master\wp-includes\capabilities.php on line 1102
+[27-Aug-2014 19:04:14 UTC] PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\sitecc-master\wp-includes\capabilities.php on line 1102
+[27-Aug-2014 19:33:40 UTC] SSL certificate problem, verify that the CA cert is OK. Retrying with the CA cert bundle from google-api-php-client.
+[27-Aug-2014 19:33:40 UTC] SSL certificate problem, verify that the CA cert is OK. Retrying with the CA cert bundle from google-api-php-client.
+[27-Aug-2014 19:33:41 UTC] SSL certificate problem, verify that the CA cert is OK. Retrying with the CA cert bundle from google-api-php-client.
+[27-Aug-2014 19:33:42 UTC] SSL certificate problem, verify that the CA cert is OK. Retrying with the CA cert bundle from google-api-php-client.
+[27-Aug-2014 19:33:42 UTC] SSL certificate problem, verify that the CA cert is OK. Retrying with the CA cert bundle from google-api-php-client.
+[27-Aug-2014 19:33:43 UTC] SSL certificate problem, verify that the CA cert is OK. Retrying with the CA cert bundle from google-api-php-client.
+[27-Aug-2014 19:33:44 UTC] SSL certificate problem, verify that the CA cert is OK. Retrying with the CA cert bundle from google-api-php-client.
+[27-Aug-2014 19:34:13 UTC] SSL certificate problem, verify that the CA cert is OK. Retrying with the CA cert bundle from google-api-php-client.
+[27-Aug-2014 19:34:13 UTC] SSL certificate problem, verify that the CA cert is OK. Retrying with the CA cert bundle from google-api-php-client.
+[27-Aug-2014 19:34:45 UTC] SSL certificate problem, verify that the CA cert is OK. Retrying with the CA cert bundle from google-api-php-client.
+[27-Aug-2014 19:34:46 UTC] SSL certificate problem, verify that the CA cert is OK. Retrying with the CA cert bundle from google-api-php-client.
+[27-Aug-2014 19:38:42 UTC] PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\sitecc-master\wp-includes\capabilities.php on line 1102
+[27-Aug-2014 19:38:42 UTC] PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\sitecc-master\wp-includes\capabilities.php on line 1102
+[27-Aug-2014 19:38:42 UTC] PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\sitecc-master\wp-includes\capabilities.php on line 1102
+[27-Aug-2014 19:38:58 UTC] PHP Notice:  supports_collation está <strong>obsoleto</strong> desde a versão 3.5! Use wpdb::has_cap( 'collation' ) em seu lugar. in C:\xampp\htdocs\sitecc-master\wp-includes\functions.php on line 3078
+[27-Aug-2014 19:38:58 UTC] Erro de banco de dados do WordPress Duplicate key name 'pollip_ip' para a consulta ALTER TABLE wp_pollsip ADD INDEX pollip_ip (pollip_ip); feita por activate_plugins, activate_plugin, do_action('activate_wp-polls/wp-polls.php'), call_user_func_array, create_poll_table
+[27-Aug-2014 19:38:58 UTC] Erro de banco de dados do WordPress Duplicate key name 'pollip_qid' para a consulta ALTER TABLE wp_pollsip ADD INDEX pollip_qid (pollip_qid); feita por activate_plugins, activate_plugin, do_action('activate_wp-polls/wp-polls.php'), call_user_func_array, create_poll_table
+[27-Aug-2014 19:39:01 UTC] PHP Notice:  Undefined offset: 1 in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\presets.php on line 447
+[27-Aug-2014 19:39:01 UTC] PHP Notice:  Undefined offset: 2 in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\presets.php on line 447
+[27-Aug-2014 19:39:01 UTC] PHP Notice:  Undefined offset: 3 in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\presets.php on line 447
+[27-Aug-2014 19:39:01 UTC] PHP Notice:  Undefined offset: 4 in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\presets.php on line 447
+[27-Aug-2014 19:39:01 UTC] PHP Notice:  Undefined offset: 1 in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\presets.php on line 447
+[27-Aug-2014 19:39:01 UTC] PHP Notice:  Undefined offset: 2 in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\presets.php on line 447
+[27-Aug-2014 19:39:01 UTC] PHP Notice:  Undefined offset: 3 in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\presets.php on line 447
+[27-Aug-2014 19:39:01 UTC] PHP Notice:  Undefined offset: 4 in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\presets.php on line 447
+[27-Aug-2014 19:39:01 UTC] PHP Notice:  Undefined offset: 1 in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\presets.php on line 447
+[27-Aug-2014 19:39:01 UTC] PHP Notice:  Undefined offset: 2 in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\presets.php on line 447
+[27-Aug-2014 19:39:01 UTC] PHP Notice:  Undefined offset: 3 in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\presets.php on line 447
+[27-Aug-2014 19:39:01 UTC] PHP Notice:  Undefined offset: 4 in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\presets.php on line 447
+[27-Aug-2014 19:39:01 UTC] PHP Notice:  Undefined offset: 1 in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\presets.php on line 447
+[27-Aug-2014 19:39:01 UTC] PHP Notice:  Undefined offset: 2 in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\presets.php on line 447
+[27-Aug-2014 19:39:01 UTC] PHP Notice:  Undefined offset: 3 in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\presets.php on line 447
+[27-Aug-2014 19:39:01 UTC] PHP Notice:  Undefined offset: 4 in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\presets.php on line 447
+[27-Aug-2014 19:39:03 UTC] PHP Notice:  Undefined offset: 1 in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\presets.php on line 447
+[27-Aug-2014 19:39:03 UTC] PHP Notice:  Undefined offset: 2 in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\presets.php on line 447
+[27-Aug-2014 19:39:03 UTC] PHP Notice:  Undefined offset: 3 in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\presets.php on line 447
+[27-Aug-2014 19:39:03 UTC] PHP Notice:  Undefined offset: 4 in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\presets.php on line 447
+[27-Aug-2014 19:40:10 UTC] SSL certificate problem, verify that the CA cert is OK. Retrying with the CA cert bundle from google-api-php-client.
+[27-Aug-2014 19:40:11 UTC] SSL certificate problem, verify that the CA cert is OK. Retrying with the CA cert bundle from google-api-php-client.
+[27-Aug-2014 19:40:11 UTC] SSL certificate problem, verify that the CA cert is OK. Retrying with the CA cert bundle from google-api-php-client.
+[27-Aug-2014 19:40:12 UTC] SSL certificate problem, verify that the CA cert is OK. Retrying with the CA cert bundle from google-api-php-client.
+[27-Aug-2014 19:40:13 UTC] SSL certificate problem, verify that the CA cert is OK. Retrying with the CA cert bundle from google-api-php-client.
+[27-Aug-2014 19:40:14 UTC] SSL certificate problem, verify that the CA cert is OK. Retrying with the CA cert bundle from google-api-php-client.
+[27-Aug-2014 19:40:14 UTC] SSL certificate problem, verify that the CA cert is OK. Retrying with the CA cert bundle from google-api-php-client.
+[27-Aug-2014 19:40:22 UTC] PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\sitecc-master\wp-includes\capabilities.php on line 1102
+[27-Aug-2014 19:40:22 UTC] PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\sitecc-master\wp-includes\capabilities.php on line 1102
+[27-Aug-2014 19:40:22 UTC] PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\sitecc-master\wp-includes\capabilities.php on line 1102
+[27-Aug-2014 19:45:13 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\sitecc-master\wp-includes\class-http.php on line 1453
+[27-Aug-2014 19:45:15 UTC] SSL certificate problem, verify that the CA cert is OK. Retrying with the CA cert bundle from google-api-php-client.
+[27-Aug-2014 19:45:16 UTC] SSL certificate problem, verify that the CA cert is OK. Retrying with the CA cert bundle from google-api-php-client.
+[27-Aug-2014 19:48:15 UTC] SSL certificate problem, verify that the CA cert is OK. Retrying with the CA cert bundle from google-api-php-client.
+[27-Aug-2014 19:48:16 UTC] SSL certificate problem, verify that the CA cert is OK. Retrying with the CA cert bundle from google-api-php-client.
+[27-Aug-2014 19:53:06 UTC] SSL certificate problem, verify that the CA cert is OK. Retrying with the CA cert bundle from google-api-php-client.
+[27-Aug-2014 19:53:07 UTC] SSL certificate problem, verify that the CA cert is OK. Retrying with the CA cert bundle from google-api-php-client.
+[27-Aug-2014 20:00:49 UTC] PHP Notice:  wp_editor() foi chamado com um argumento que está <strong>obsoleto</strong> desde a versão 3.9! TinyMCE editor IDs cannot have brackets. in C:\xampp\htdocs\sitecc-master\wp-includes\functions.php on line 3193
+[27-Aug-2014 20:00:49 UTC] PHP Notice:  wp_editor() foi chamado com um argumento que está <strong>obsoleto</strong> desde a versão 3.9! TinyMCE editor IDs cannot have brackets. in C:\xampp\htdocs\sitecc-master\wp-includes\functions.php on line 3193
+[03-Sep-2014 18:39:47 UTC] PHP Notice:  Undefined offset: 1 in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\presets.php on line 447
+[03-Sep-2014 18:39:47 UTC] PHP Notice:  Undefined offset: 2 in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\presets.php on line 447
+[03-Sep-2014 18:39:47 UTC] PHP Notice:  Undefined offset: 3 in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\presets.php on line 447
+[03-Sep-2014 18:39:47 UTC] PHP Notice:  Undefined offset: 4 in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\presets.php on line 447
+[03-Sep-2014 18:44:44 UTC] SSL certificate problem, verify that the CA cert is OK. Retrying with the CA cert bundle from google-api-php-client.
+[03-Sep-2014 18:44:45 UTC] SSL certificate problem, verify that the CA cert is OK. Retrying with the CA cert bundle from google-api-php-client.
+[03-Sep-2014 18:44:49 UTC] SSL certificate problem, verify that the CA cert is OK. Retrying with the CA cert bundle from google-api-php-client.
+[03-Sep-2014 18:44:50 UTC] SSL certificate problem, verify that the CA cert is OK. Retrying with the CA cert bundle from google-api-php-client.
+[03-Sep-2014 18:44:50 UTC] SSL certificate problem, verify that the CA cert is OK. Retrying with the CA cert bundle from google-api-php-client.
+[03-Sep-2014 18:44:51 UTC] SSL certificate problem, verify that the CA cert is OK. Retrying with the CA cert bundle from google-api-php-client.
+[03-Sep-2014 18:44:53 UTC] SSL certificate problem, verify that the CA cert is OK. Retrying with the CA cert bundle from google-api-php-client.
+[03-Sep-2014 18:49:52 UTC] SSL certificate problem, verify that the CA cert is OK. Retrying with the CA cert bundle from google-api-php-client.
+[03-Sep-2014 18:49:53 UTC] SSL certificate problem, verify that the CA cert is OK. Retrying with the CA cert bundle from google-api-php-client.
+[03-Sep-2014 18:49:54 UTC] SSL certificate problem, verify that the CA cert is OK. Retrying with the CA cert bundle from google-api-php-client.
+[03-Sep-2014 18:49:54 UTC] SSL certificate problem, verify that the CA cert is OK. Retrying with the CA cert bundle from google-api-php-client.
+[03-Sep-2014 18:49:55 UTC] SSL certificate problem, verify that the CA cert is OK. Retrying with the CA cert bundle from google-api-php-client.
+[03-Sep-2014 18:49:56 UTC] SSL certificate problem, verify that the CA cert is OK. Retrying with the CA cert bundle from google-api-php-client.
+[03-Sep-2014 18:49:56 UTC] SSL certificate problem, verify that the CA cert is OK. Retrying with the CA cert bundle from google-api-php-client.
+[03-Sep-2014 18:55:01 UTC] PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\sitecc-master\wp-includes\capabilities.php on line 1102
+[03-Sep-2014 18:55:01 UTC] PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\sitecc-master\wp-includes\capabilities.php on line 1102
+[03-Sep-2014 18:55:01 UTC] PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\sitecc-master\wp-includes\capabilities.php on line 1102
+[03-Sep-2014 18:56:55 UTC] PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\sitecc-master\wp-includes\capabilities.php on line 1102
+[03-Sep-2014 18:56:55 UTC] PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\sitecc-master\wp-includes\capabilities.php on line 1102
+[03-Sep-2014 18:56:55 UTC] PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\sitecc-master\wp-includes\capabilities.php on line 1102
+[03-Sep-2014 19:10:02 UTC] PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\sitecc-master\wp-includes\capabilities.php on line 1102
+[03-Sep-2014 19:10:02 UTC] PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\sitecc-master\wp-includes\capabilities.php on line 1102
+[03-Sep-2014 19:10:02 UTC] PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\sitecc-master\wp-includes\capabilities.php on line 1102
+[17-Sep-2014 16:43:23 UTC] PHP Notice:  Undefined offset: 1 in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\presets.php on line 447
+[17-Sep-2014 16:43:23 UTC] PHP Notice:  Undefined offset: 2 in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\presets.php on line 447
+[17-Sep-2014 16:43:23 UTC] PHP Notice:  Undefined offset: 3 in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\presets.php on line 447
+[17-Sep-2014 16:43:23 UTC] PHP Notice:  Undefined offset: 4 in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\presets.php on line 447
+[17-Sep-2014 16:51:19 UTC] PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\sitecc-master\wp-includes\capabilities.php on line 1102
+[17-Sep-2014 16:51:19 UTC] PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\sitecc-master\wp-includes\capabilities.php on line 1102
+[17-Sep-2014 16:51:19 UTC] PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\sitecc-master\wp-includes\capabilities.php on line 1102
+[17-Sep-2014 16:51:22 UTC] SSL certificate problem, verify that the CA cert is OK. Retrying with the CA cert bundle from google-api-php-client.
+[17-Sep-2014 16:51:23 UTC] SSL certificate problem, verify that the CA cert is OK. Retrying with the CA cert bundle from google-api-php-client.
+[17-Sep-2014 16:51:23 UTC] SSL certificate problem, verify that the CA cert is OK. Retrying with the CA cert bundle from google-api-php-client.
+[17-Sep-2014 16:51:24 UTC] SSL certificate problem, verify that the CA cert is OK. Retrying with the CA cert bundle from google-api-php-client.
+[17-Sep-2014 16:51:25 UTC] SSL certificate problem, verify that the CA cert is OK. Retrying with the CA cert bundle from google-api-php-client.
+[17-Sep-2014 16:51:26 UTC] SSL certificate problem, verify that the CA cert is OK. Retrying with the CA cert bundle from google-api-php-client.
+[17-Sep-2014 16:51:26 UTC] SSL certificate problem, verify that the CA cert is OK. Retrying with the CA cert bundle from google-api-php-client.
+[17-Sep-2014 17:03:04 UTC] SSL certificate problem, verify that the CA cert is OK. Retrying with the CA cert bundle from google-api-php-client.
+[17-Sep-2014 17:03:05 UTC] SSL certificate problem, verify that the CA cert is OK. Retrying with the CA cert bundle from google-api-php-client.
+[17-Sep-2014 17:19:11 UTC] SSL certificate problem, verify that the CA cert is OK. Retrying with the CA cert bundle from google-api-php-client.
+[17-Sep-2014 17:19:12 UTC] SSL certificate problem, verify that the CA cert is OK. Retrying with the CA cert bundle from google-api-php-client.
+[17-Sep-2014 17:19:13 UTC] SSL certificate problem, verify that the CA cert is OK. Retrying with the CA cert bundle from google-api-php-client.
+[17-Sep-2014 17:19:14 UTC] SSL certificate problem, verify that the CA cert is OK. Retrying with the CA cert bundle from google-api-php-client.
+[17-Sep-2014 17:19:14 UTC] SSL certificate problem, verify that the CA cert is OK. Retrying with the CA cert bundle from google-api-php-client.
+[17-Sep-2014 17:19:15 UTC] SSL certificate problem, verify that the CA cert is OK. Retrying with the CA cert bundle from google-api-php-client.
+[17-Sep-2014 17:19:16 UTC] SSL certificate problem, verify that the CA cert is OK. Retrying with the CA cert bundle from google-api-php-client.
+[20-Sep-2014 00:25:09 UTC] PHP Notice:  Undefined offset: 1 in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\presets.php on line 447
+[20-Sep-2014 00:25:09 UTC] PHP Notice:  Undefined offset: 2 in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\presets.php on line 447
+[20-Sep-2014 00:25:09 UTC] PHP Notice:  Undefined offset: 3 in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\presets.php on line 447
+[20-Sep-2014 00:25:09 UTC] PHP Notice:  Undefined offset: 4 in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\presets.php on line 447
+[24-Sep-2014 16:48:21 UTC] PHP Notice:  Undefined offset: 1 in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\presets.php on line 447
+[24-Sep-2014 16:48:21 UTC] PHP Notice:  Undefined offset: 2 in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\presets.php on line 447
+[24-Sep-2014 16:48:21 UTC] PHP Notice:  Undefined offset: 3 in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\presets.php on line 447
+[24-Sep-2014 16:48:21 UTC] PHP Notice:  Undefined offset: 4 in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\presets.php on line 447
+[24-Sep-2014 16:49:07 UTC] SSL certificate problem, verify that the CA cert is OK. Retrying with the CA cert bundle from google-api-php-client.
+[24-Sep-2014 16:49:08 UTC] SSL certificate problem, verify that the CA cert is OK. Retrying with the CA cert bundle from google-api-php-client.
+[24-Sep-2014 16:49:09 UTC] SSL certificate problem, verify that the CA cert is OK. Retrying with the CA cert bundle from google-api-php-client.
+[24-Sep-2014 16:49:10 UTC] SSL certificate problem, verify that the CA cert is OK. Retrying with the CA cert bundle from google-api-php-client.
+[24-Sep-2014 16:49:11 UTC] SSL certificate problem, verify that the CA cert is OK. Retrying with the CA cert bundle from google-api-php-client.
+[24-Sep-2014 16:49:11 UTC] SSL certificate problem, verify that the CA cert is OK. Retrying with the CA cert bundle from google-api-php-client.
+[24-Sep-2014 16:49:12 UTC] SSL certificate problem, verify that the CA cert is OK. Retrying with the CA cert bundle from google-api-php-client.
+[24-Sep-2014 16:50:00 UTC] PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\sitecc-master\wp-includes\capabilities.php on line 1102
+[24-Sep-2014 16:50:00 UTC] PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\sitecc-master\wp-includes\capabilities.php on line 1102
+[24-Sep-2014 16:50:00 UTC] PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\sitecc-master\wp-includes\capabilities.php on line 1102
+[24-Sep-2014 17:01:05 UTC] SSL certificate problem, verify that the CA cert is OK. Retrying with the CA cert bundle from google-api-php-client.
+[24-Sep-2014 17:01:06 UTC] SSL certificate problem, verify that the CA cert is OK. Retrying with the CA cert bundle from google-api-php-client.
+[24-Sep-2014 17:01:06 UTC] SSL certificate problem, verify that the CA cert is OK. Retrying with the CA cert bundle from google-api-php-client.
+[24-Sep-2014 17:01:07 UTC] SSL certificate problem, verify that the CA cert is OK. Retrying with the CA cert bundle from google-api-php-client.
+[24-Sep-2014 17:01:08 UTC] SSL certificate problem, verify that the CA cert is OK. Retrying with the CA cert bundle from google-api-php-client.
+[24-Sep-2014 17:01:09 UTC] SSL certificate problem, verify that the CA cert is OK. Retrying with the CA cert bundle from google-api-php-client.
+[24-Sep-2014 17:01:09 UTC] SSL certificate problem, verify that the CA cert is OK. Retrying with the CA cert bundle from google-api-php-client.
+[24-Sep-2014 17:01:25 UTC] SSL certificate problem, verify that the CA cert is OK. Retrying with the CA cert bundle from google-api-php-client.
+[24-Sep-2014 17:01:26 UTC] SSL certificate problem, verify that the CA cert is OK. Retrying with the CA cert bundle from google-api-php-client.
+[24-Sep-2014 17:01:26 UTC] SSL certificate problem, verify that the CA cert is OK. Retrying with the CA cert bundle from google-api-php-client.
+[24-Sep-2014 17:01:27 UTC] SSL certificate problem, verify that the CA cert is OK. Retrying with the CA cert bundle from google-api-php-client.
+[24-Sep-2014 17:01:28 UTC] SSL certificate problem, verify that the CA cert is OK. Retrying with the CA cert bundle from google-api-php-client.
+[24-Sep-2014 17:01:28 UTC] SSL certificate problem, verify that the CA cert is OK. Retrying with the CA cert bundle from google-api-php-client.
+[24-Sep-2014 17:01:29 UTC] SSL certificate problem, verify that the CA cert is OK. Retrying with the CA cert bundle from google-api-php-client.
+[24-Sep-2014 17:01:51 UTC] SSL certificate problem, verify that the CA cert is OK. Retrying with the CA cert bundle from google-api-php-client.
+[24-Sep-2014 17:01:51 UTC] SSL certificate problem, verify that the CA cert is OK. Retrying with the CA cert bundle from google-api-php-client.
+[24-Sep-2014 17:01:52 UTC] SSL certificate problem, verify that the CA cert is OK. Retrying with the CA cert bundle from google-api-php-client.
+[24-Sep-2014 17:01:53 UTC] SSL certificate problem, verify that the CA cert is OK. Retrying with the CA cert bundle from google-api-php-client.
+[24-Sep-2014 17:01:53 UTC] SSL certificate problem, verify that the CA cert is OK. Retrying with the CA cert bundle from google-api-php-client.
+[24-Sep-2014 17:01:54 UTC] SSL certificate problem, verify that the CA cert is OK. Retrying with the CA cert bundle from google-api-php-client.
+[24-Sep-2014 17:01:55 UTC] SSL certificate problem, verify that the CA cert is OK. Retrying with the CA cert bundle from google-api-php-client.
+[24-Sep-2014 17:03:19 UTC] SSL certificate problem, verify that the CA cert is OK. Retrying with the CA cert bundle from google-api-php-client.
+[24-Sep-2014 17:03:19 UTC] SSL certificate problem, verify that the CA cert is OK. Retrying with the CA cert bundle from google-api-php-client.
+[24-Sep-2014 17:03:20 UTC] SSL certificate problem, verify that the CA cert is OK. Retrying with the CA cert bundle from google-api-php-client.
+[24-Sep-2014 17:03:21 UTC] SSL certificate problem, verify that the CA cert is OK. Retrying with the CA cert bundle from google-api-php-client.
+[24-Sep-2014 17:03:22 UTC] SSL certificate problem, verify that the CA cert is OK. Retrying with the CA cert bundle from google-api-php-client.
+[24-Sep-2014 17:03:22 UTC] SSL certificate problem, verify that the CA cert is OK. Retrying with the CA cert bundle from google-api-php-client.
+[24-Sep-2014 17:03:23 UTC] SSL certificate problem, verify that the CA cert is OK. Retrying with the CA cert bundle from google-api-php-client.
+[24-Sep-2014 17:03:23 UTC] SSL certificate problem, verify that the CA cert is OK. Retrying with the CA cert bundle from google-api-php-client.
+[24-Sep-2014 17:03:24 UTC] SSL certificate problem, verify that the CA cert is OK. Retrying with the CA cert bundle from google-api-php-client.
+[24-Sep-2014 17:03:24 UTC] SSL certificate problem, verify that the CA cert is OK. Retrying with the CA cert bundle from google-api-php-client.
+[24-Sep-2014 17:03:25 UTC] SSL certificate problem, verify that the CA cert is OK. Retrying with the CA cert bundle from google-api-php-client.
+[24-Sep-2014 17:03:26 UTC] SSL certificate problem, verify that the CA cert is OK. Retrying with the CA cert bundle from google-api-php-client.
+[24-Sep-2014 17:03:26 UTC] SSL certificate problem, verify that the CA cert is OK. Retrying with the CA cert bundle from google-api-php-client.
+[24-Sep-2014 17:03:27 UTC] SSL certificate problem, verify that the CA cert is OK. Retrying with the CA cert bundle from google-api-php-client.
+[24-Sep-2014 17:03:44 UTC] SSL certificate problem, verify that the CA cert is OK. Retrying with the CA cert bundle from google-api-php-client.
+[24-Sep-2014 17:03:44 UTC] SSL certificate problem, verify that the CA cert is OK. Retrying with the CA cert bundle from google-api-php-client.
+[24-Sep-2014 17:03:45 UTC] SSL certificate problem, verify that the CA cert is OK. Retrying with the CA cert bundle from google-api-php-client.
+[24-Sep-2014 17:03:46 UTC] SSL certificate problem, verify that the CA cert is OK. Retrying with the CA cert bundle from google-api-php-client.
+[24-Sep-2014 17:03:46 UTC] SSL certificate problem, verify that the CA cert is OK. Retrying with the CA cert bundle from google-api-php-client.
+[24-Sep-2014 17:03:47 UTC] SSL certificate problem, verify that the CA cert is OK. Retrying with the CA cert bundle from google-api-php-client.
+[24-Sep-2014 17:03:48 UTC] SSL certificate problem, verify that the CA cert is OK. Retrying with the CA cert bundle from google-api-php-client.
+[24-Sep-2014 17:04:03 UTC] PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\sitecc-master\wp-includes\capabilities.php on line 1102
+[24-Sep-2014 17:04:03 UTC] PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\sitecc-master\wp-includes\capabilities.php on line 1102
+[24-Sep-2014 17:04:03 UTC] PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\sitecc-master\wp-includes\capabilities.php on line 1102
+[24-Sep-2014 17:13:32 UTC] PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\sitecc-master\wp-includes\capabilities.php on line 1102
+[24-Sep-2014 17:13:32 UTC] PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\sitecc-master\wp-includes\capabilities.php on line 1102
+[24-Sep-2014 17:13:32 UTC] PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\sitecc-master\wp-includes\capabilities.php on line 1102
+[24-Sep-2014 17:16:01 UTC] PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\sitecc-master\wp-includes\capabilities.php on line 1102
+[24-Sep-2014 17:16:01 UTC] PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\sitecc-master\wp-includes\capabilities.php on line 1102
+[24-Sep-2014 17:16:01 UTC] PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\sitecc-master\wp-includes\capabilities.php on line 1102
+[24-Sep-2014 17:16:27 UTC] PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\sitecc-master\wp-includes\capabilities.php on line 1102
+[24-Sep-2014 17:16:27 UTC] PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\sitecc-master\wp-includes\capabilities.php on line 1102
+[24-Sep-2014 17:16:27 UTC] PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\sitecc-master\wp-includes\capabilities.php on line 1102
+[24-Sep-2014 17:17:56 UTC] PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\sitecc-master\wp-includes\capabilities.php on line 1102
+[24-Sep-2014 17:17:56 UTC] PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\sitecc-master\wp-includes\capabilities.php on line 1102
+[24-Sep-2014 17:17:56 UTC] PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\sitecc-master\wp-includes\capabilities.php on line 1102
+[24-Sep-2014 17:20:32 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 17:20:32 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 17:20:32 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 17:20:32 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 17:20:32 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 17:20:32 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 17:20:32 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 17:20:32 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 17:20:32 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 17:20:32 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 17:20:32 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 17:20:32 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 17:20:32 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 17:20:32 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 17:20:32 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 17:20:32 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 17:20:32 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 17:20:32 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 17:20:32 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 17:20:32 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 17:20:32 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 17:20:32 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 17:20:32 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 17:20:32 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 17:20:32 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 17:20:32 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 17:20:32 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 17:20:32 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 17:20:32 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 17:20:32 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 17:20:32 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 17:20:32 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 17:20:32 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 17:20:32 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 17:20:32 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 17:20:32 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 17:20:32 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 17:20:32 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 17:20:32 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 17:20:32 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 17:20:34 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 17:20:34 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 17:20:34 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 17:20:34 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 17:20:34 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 17:20:34 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 17:20:34 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 17:20:34 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 17:20:34 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 17:20:34 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 17:20:34 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 17:20:34 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 17:20:34 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 17:20:34 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 17:20:34 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 17:20:34 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 17:20:34 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 17:20:34 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 17:20:34 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 17:20:34 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 17:20:34 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 17:20:34 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 17:20:34 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 17:20:34 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 17:20:34 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 17:20:34 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 17:20:34 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 17:20:34 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 17:20:34 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 17:20:34 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 17:20:34 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 17:20:34 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 17:20:34 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 17:28:25 UTC] PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\sitecc-master\wp-includes\capabilities.php on line 1102
+[24-Sep-2014 17:28:25 UTC] PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\sitecc-master\wp-includes\capabilities.php on line 1102
+[24-Sep-2014 17:28:25 UTC] PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\sitecc-master\wp-includes\capabilities.php on line 1102
+[24-Sep-2014 17:28:56 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 17:28:56 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 17:28:56 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 17:28:56 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 17:28:56 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 17:28:56 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 17:28:56 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 17:28:56 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 17:28:56 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 17:28:56 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 17:28:56 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 17:28:56 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 17:28:56 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 17:28:56 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 17:28:56 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 17:28:56 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 17:28:56 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 17:28:56 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 17:28:56 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 17:28:56 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 17:28:56 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 17:28:56 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 17:28:56 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 17:28:56 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 17:28:56 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 17:28:56 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 17:28:56 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 17:28:56 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 17:28:56 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 17:28:56 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 17:28:56 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 17:28:56 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 17:28:56 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 17:28:56 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 17:28:56 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 17:28:56 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 17:28:56 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 17:28:56 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 17:28:56 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 17:28:56 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 17:29:00 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 17:29:00 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 17:29:00 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 17:29:00 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 17:29:00 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 17:29:00 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 17:29:00 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 17:29:00 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 17:29:00 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 17:29:00 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 17:29:00 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 17:29:00 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 17:29:00 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 17:29:00 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 17:29:00 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 17:29:00 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 17:29:00 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 17:29:00 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 17:29:00 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 17:29:00 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 17:29:00 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 17:29:00 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 17:29:00 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 17:29:00 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 17:29:00 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 17:29:00 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 17:29:00 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 17:29:00 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 17:29:00 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 17:29:00 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 17:29:00 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 17:29:00 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 17:29:00 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 17:29:44 UTC] PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\sitecc-master\wp-includes\capabilities.php on line 1102
+[24-Sep-2014 17:29:44 UTC] PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\sitecc-master\wp-includes\capabilities.php on line 1102
+[24-Sep-2014 17:29:44 UTC] PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\sitecc-master\wp-includes\capabilities.php on line 1102
+[24-Sep-2014 17:30:04 UTC] PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\sitecc-master\wp-includes\capabilities.php on line 1102
+[24-Sep-2014 17:30:04 UTC] PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\sitecc-master\wp-includes\capabilities.php on line 1102
+[24-Sep-2014 17:30:04 UTC] PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\sitecc-master\wp-includes\capabilities.php on line 1102
+[24-Sep-2014 17:31:14 UTC] PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\sitecc-master\wp-includes\capabilities.php on line 1102
+[24-Sep-2014 17:31:14 UTC] PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\sitecc-master\wp-includes\capabilities.php on line 1102
+[24-Sep-2014 17:31:14 UTC] PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\sitecc-master\wp-includes\capabilities.php on line 1102
+[24-Sep-2014 17:31:55 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 17:31:55 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 17:31:55 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 17:31:55 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 17:31:55 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 17:31:55 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 17:31:55 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 17:31:55 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 17:31:55 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 17:31:55 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 17:31:55 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 17:31:55 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 17:31:55 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 17:31:55 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 17:31:55 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 17:31:55 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 17:31:55 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 17:31:55 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 17:31:55 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 17:31:55 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 17:31:55 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 17:31:55 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 17:31:55 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 17:31:55 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 17:31:55 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 17:31:56 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 17:31:56 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 17:31:56 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 17:31:56 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 17:31:56 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 17:31:56 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 17:31:56 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 17:31:56 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 17:31:56 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 17:31:56 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 17:31:56 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 17:31:56 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 17:33:05 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 17:33:16 UTC] PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\sitecc-master\wp-includes\capabilities.php on line 1102
+[24-Sep-2014 17:33:16 UTC] PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\sitecc-master\wp-includes\capabilities.php on line 1102
+[24-Sep-2014 17:33:16 UTC] PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\sitecc-master\wp-includes\capabilities.php on line 1102
+[24-Sep-2014 17:35:34 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 17:35:34 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 17:35:34 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 17:35:34 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 17:35:34 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 17:35:34 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 17:35:34 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 17:35:34 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 17:35:34 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 17:35:34 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 17:35:34 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 17:35:34 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 17:35:34 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 17:35:34 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 17:35:34 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 17:35:34 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 17:35:34 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 17:35:34 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 17:35:34 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 17:35:34 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 17:35:34 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 17:35:34 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 17:35:34 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 17:35:34 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 17:35:34 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 17:35:34 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 17:35:34 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 17:35:34 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 17:35:34 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 17:35:34 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 17:35:34 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 17:35:34 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 17:35:34 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 17:35:34 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 17:35:34 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 17:35:34 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 17:35:34 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 17:35:34 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 17:35:34 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 17:35:34 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 17:40:14 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:50:00 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:50:00 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:50:00 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:50:00 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:50:00 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:50:00 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:50:00 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:50:00 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:50:00 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:50:00 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:50:00 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:50:00 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:50:00 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:50:00 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:50:00 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:50:00 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:50:00 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:50:00 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:50:00 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:50:00 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:50:00 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:50:00 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:50:00 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:50:00 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:50:00 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:50:00 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:50:00 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:50:00 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:50:00 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:50:00 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:50:00 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:50:00 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:50:00 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:50:00 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:50:00 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:50:00 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:50:00 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:50:00 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:50:00 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:50:00 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:50:10 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:50:25 UTC] PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\sitecc-master\wp-includes\capabilities.php on line 1102
+[24-Sep-2014 18:50:25 UTC] PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\sitecc-master\wp-includes\capabilities.php on line 1102
+[24-Sep-2014 18:50:25 UTC] PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\sitecc-master\wp-includes\capabilities.php on line 1102
+[24-Sep-2014 18:50:43 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:50:43 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:50:43 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:50:43 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:50:43 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:50:43 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:50:43 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:50:43 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:50:43 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:50:43 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:50:43 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:50:43 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:50:43 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:50:43 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:50:43 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:50:44 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:50:44 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:50:44 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:50:44 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:50:44 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:50:44 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:50:44 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:50:44 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:50:44 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:50:44 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:50:44 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:50:44 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:50:44 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:50:44 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:50:44 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:50:44 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:50:44 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:50:44 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:50:44 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:50:44 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:50:44 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:50:44 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:50:44 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:50:44 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:50:44 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:50:44 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:50:55 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:51:13 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:51:13 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:51:13 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:51:13 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:51:13 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:51:13 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:51:13 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:51:13 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:51:13 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:51:13 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:51:13 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:51:13 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:51:13 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:51:13 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:51:13 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:51:13 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:51:13 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:51:13 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:51:13 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:51:13 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:51:13 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:51:13 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:51:13 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:51:13 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:51:13 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:51:13 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:51:13 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:51:13 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:51:13 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:51:13 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:51:13 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:51:13 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:51:13 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:51:13 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:51:13 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:51:13 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:51:13 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:51:13 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:51:13 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:51:13 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:51:13 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:51:13 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:51:22 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:51:38 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:51:38 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:51:38 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:51:38 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:51:38 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:51:38 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:51:38 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:51:38 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:51:38 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:51:38 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:51:38 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:51:38 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:51:38 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:51:38 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:51:38 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:51:38 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:51:38 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:51:38 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:51:38 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:51:38 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:51:38 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:51:38 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:51:38 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:51:38 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:51:38 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:51:38 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:51:38 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:51:38 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:51:38 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:51:38 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:51:38 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:51:38 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:51:38 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:51:38 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:51:38 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:51:38 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:51:38 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:51:38 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:51:38 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:51:38 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:51:38 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:51:38 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:51:39 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:51:44 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:53:20 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:53:20 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:53:20 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:53:20 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:53:20 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:53:20 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:53:20 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:53:20 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:53:20 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:53:20 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:53:20 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:53:20 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:53:20 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:53:20 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:53:20 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:53:20 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:53:20 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:53:20 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:53:20 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:53:20 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:53:20 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:53:20 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:53:20 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:53:20 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:53:20 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:53:20 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:53:20 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:53:20 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:53:20 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:53:20 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:53:20 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:53:20 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:53:20 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:53:20 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:53:20 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:53:20 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:53:20 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:53:20 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:53:20 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:53:20 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:53:20 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:53:20 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:53:21 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:53:21 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:53:28 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:53:35 UTC] PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\sitecc-master\wp-includes\capabilities.php on line 1102
+[24-Sep-2014 18:53:35 UTC] PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\sitecc-master\wp-includes\capabilities.php on line 1102
+[24-Sep-2014 18:53:35 UTC] PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\sitecc-master\wp-includes\capabilities.php on line 1102
+[24-Sep-2014 18:53:48 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:53:48 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:53:48 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:53:48 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:53:48 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:53:48 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:53:48 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:53:48 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:53:48 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:53:48 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:53:48 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:53:48 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:53:48 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:53:48 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:53:48 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:53:48 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:53:48 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:53:48 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:53:48 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:53:48 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:53:48 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:53:48 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:53:48 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:53:48 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:53:48 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:53:48 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:53:48 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:53:48 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:53:48 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:53:48 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:53:48 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:53:48 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:53:48 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:53:48 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:53:48 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:53:48 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:53:48 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:53:48 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:53:48 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:53:48 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:53:48 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:53:48 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:53:49 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:53:49 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:53:49 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:53:55 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:54:01 UTC] PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\sitecc-master\wp-includes\capabilities.php on line 1102
+[24-Sep-2014 18:54:01 UTC] PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\sitecc-master\wp-includes\capabilities.php on line 1102
+[24-Sep-2014 18:54:01 UTC] PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\sitecc-master\wp-includes\capabilities.php on line 1102
+[24-Sep-2014 18:54:30 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:54:30 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:54:30 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:54:30 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:54:30 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:54:30 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:54:30 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:54:30 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:54:30 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:54:30 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:54:30 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:54:30 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:54:30 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:54:30 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:54:30 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:54:30 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:54:30 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:54:30 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:54:30 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:54:30 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:54:30 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:54:30 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:54:30 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:54:30 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:54:30 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:54:30 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:54:30 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:54:30 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:54:30 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:54:30 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:54:30 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:54:30 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:54:30 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:54:30 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:54:30 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:54:30 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:54:30 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:54:30 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:54:30 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:54:30 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:54:30 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:54:30 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:54:31 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:54:31 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:54:31 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:54:31 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:54:45 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:55:03 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:55:03 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:55:03 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:55:03 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:55:03 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:55:03 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:55:03 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:55:03 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:55:03 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:55:03 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:55:03 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:55:03 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:55:03 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:55:03 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:55:03 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:55:03 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:55:03 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:55:03 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:55:03 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:55:03 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:55:03 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:55:03 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:55:03 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:55:03 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:55:03 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:55:03 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:55:03 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:55:03 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:55:03 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:55:03 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:55:03 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:55:03 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:55:03 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:55:03 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:55:03 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:55:03 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:55:03 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:55:03 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:55:03 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:55:03 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:55:03 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:55:03 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:55:04 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:55:04 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:55:04 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:55:04 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:55:04 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:55:10 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:55:37 UTC] PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\sitecc-master\wp-includes\capabilities.php on line 1102
+[24-Sep-2014 18:55:37 UTC] PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\sitecc-master\wp-includes\capabilities.php on line 1102
+[24-Sep-2014 18:55:37 UTC] PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\sitecc-master\wp-includes\capabilities.php on line 1102
+[24-Sep-2014 18:59:47 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:59:47 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:59:47 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:59:47 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:59:47 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:59:47 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:59:47 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:59:47 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:59:47 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:59:47 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:59:47 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:59:47 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:59:47 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:59:47 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:59:47 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:59:47 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:59:47 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:59:47 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:59:47 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:59:47 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:59:47 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:59:47 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:59:47 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:59:47 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:59:47 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:59:47 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:59:47 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:59:47 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:59:47 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:59:47 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:59:47 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:59:47 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:59:47 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:59:47 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:59:47 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:59:47 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:59:47 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:59:47 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:59:47 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:59:47 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:59:47 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:59:47 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:59:48 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:59:48 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:59:48 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:59:48 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:59:48 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:59:48 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
+[24-Sep-2014 18:59:52 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
