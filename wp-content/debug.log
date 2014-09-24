@@ -887,3 +887,182 @@
 [24-Sep-2014 18:59:52 UTC] PHP Notice:  Undefined index: HTTP_POST_FILES in C:\xampp\htdocs\sitecc-master\wp-content\plugins\infinite-scroll\includes\admin.php on line 90
 [24-Sep-2014 19:08:40 UTC] PHP Warning:  mysql_connect(): Access denied for user 'teste'@'localhost' (using password: YES) in C:\xampp\htdocs\sitecc-master\wp-includes\wp-db.php on line 1372
 [24-Sep-2014 19:08:44 UTC] PHP Warning:  mysql_connect(): Access denied for user 'teste'@'localhost' (using password: YES) in C:\xampp\htdocs\sitecc-master\wp-includes\wp-db.php on line 1372
+[24-Sep-2014 19:14:03 UTC] SSL certificate problem, verify that the CA cert is OK. Retrying with the CA cert bundle from google-api-php-client.
+[24-Sep-2014 19:14:03 UTC] PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\sitecc-master\wp-includes\capabilities.php on line 1112
+[24-Sep-2014 19:14:03 UTC] PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\sitecc-master\wp-includes\capabilities.php on line 1113
+[24-Sep-2014 19:14:03 UTC] PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\sitecc-master\wp-includes\capabilities.php on line 1113
+[24-Sep-2014 19:14:03 UTC] PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\sitecc-master\wp-includes\capabilities.php on line 1116
+[24-Sep-2014 19:14:03 UTC] PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\sitecc-master\wp-includes\capabilities.php on line 1116
+[24-Sep-2014 19:14:03 UTC] PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\sitecc-master\wp-includes\capabilities.php on line 1112
+[24-Sep-2014 19:14:03 UTC] PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\sitecc-master\wp-includes\capabilities.php on line 1113
+[24-Sep-2014 19:14:03 UTC] PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\sitecc-master\wp-includes\capabilities.php on line 1113
+[24-Sep-2014 19:14:03 UTC] PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\sitecc-master\wp-includes\capabilities.php on line 1116
+[24-Sep-2014 19:14:03 UTC] PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\sitecc-master\wp-includes\capabilities.php on line 1116
+[24-Sep-2014 19:14:03 UTC] SSL certificate problem, verify that the CA cert is OK. Retrying with the CA cert bundle from google-api-php-client.
+[24-Sep-2014 19:14:04 UTC] SSL certificate problem, verify that the CA cert is OK. Retrying with the CA cert bundle from google-api-php-client.
+[24-Sep-2014 19:14:05 UTC] SSL certificate problem, verify that the CA cert is OK. Retrying with the CA cert bundle from google-api-php-client.
+[24-Sep-2014 19:14:05 UTC] SSL certificate problem, verify that the CA cert is OK. Retrying with the CA cert bundle from google-api-php-client.
+[24-Sep-2014 19:14:06 UTC] SSL certificate problem, verify that the CA cert is OK. Retrying with the CA cert bundle from google-api-php-client.
+[24-Sep-2014 19:14:07 UTC] SSL certificate problem, verify that the CA cert is OK. Retrying with the CA cert bundle from google-api-php-client.
+[24-Sep-2014 19:54:20 UTC] PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\sitecc-master\wp-includes\capabilities.php on line 1102
+[24-Sep-2014 19:54:20 UTC] PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\sitecc-master\wp-includes\capabilities.php on line 1102
+[24-Sep-2014 19:54:20 UTC] PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\sitecc-master\wp-includes\capabilities.php on line 1102
+[24-Sep-2014 19:54:20 UTC] PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\sitecc-master\wp-includes\capabilities.php on line 1102
+[24-Sep-2014 19:54:20 UTC] PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\sitecc-master\wp-includes\capabilities.php on line 1102
+[24-Sep-2014 19:54:20 UTC] PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\sitecc-master\wp-includes\capabilities.php on line 1102
+[24-Sep-2014 19:54:21 UTC] PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\sitecc-master\wp-includes\capabilities.php on line 1102
+[24-Sep-2014 19:54:21 UTC] PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\sitecc-master\wp-includes\capabilities.php on line 1102
+[24-Sep-2014 19:54:21 UTC] PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\sitecc-master\wp-includes\capabilities.php on line 1102
+[24-Sep-2014 19:54:21 UTC] PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\sitecc-master\wp-includes\capabilities.php on line 1102
+[24-Sep-2014 19:54:21 UTC] PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\sitecc-master\wp-includes\capabilities.php on line 1102
+[24-Sep-2014 19:54:21 UTC] PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\sitecc-master\wp-includes\capabilities.php on line 1102
+[24-Sep-2014 19:54:21 UTC] PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\sitecc-master\wp-includes\capabilities.php on line 1102
+[24-Sep-2014 19:54:21 UTC] PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\sitecc-master\wp-includes\capabilities.php on line 1102
+[24-Sep-2014 19:54:21 UTC] PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\sitecc-master\wp-includes\capabilities.php on line 1102
+[24-Sep-2014 19:54:21 UTC] PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\sitecc-master\wp-includes\capabilities.php on line 1102
+[24-Sep-2014 19:54:21 UTC] PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\sitecc-master\wp-includes\capabilities.php on line 1102
+[24-Sep-2014 19:54:21 UTC] PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\sitecc-master\wp-includes\capabilities.php on line 1102
+[24-Sep-2014 19:54:21 UTC] PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\sitecc-master\wp-includes\capabilities.php on line 1102
+[24-Sep-2014 19:54:21 UTC] PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\sitecc-master\wp-includes\capabilities.php on line 1102
+[24-Sep-2014 19:54:21 UTC] PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\sitecc-master\wp-includes\capabilities.php on line 1102
+[24-Sep-2014 19:54:21 UTC] PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\sitecc-master\wp-includes\capabilities.php on line 1102
+[24-Sep-2014 19:54:21 UTC] PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\sitecc-master\wp-includes\capabilities.php on line 1102
+[24-Sep-2014 19:54:21 UTC] PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\sitecc-master\wp-includes\capabilities.php on line 1102
+[24-Sep-2014 19:54:21 UTC] PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\sitecc-master\wp-includes\capabilities.php on line 1102
+[24-Sep-2014 19:54:21 UTC] PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\sitecc-master\wp-includes\capabilities.php on line 1102
+[24-Sep-2014 19:54:21 UTC] PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\sitecc-master\wp-includes\capabilities.php on line 1102
+[24-Sep-2014 19:54:21 UTC] PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\sitecc-master\wp-includes\capabilities.php on line 1102
+[24-Sep-2014 19:54:21 UTC] PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\sitecc-master\wp-includes\capabilities.php on line 1102
+[24-Sep-2014 19:54:21 UTC] PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\sitecc-master\wp-includes\capabilities.php on line 1102
+[24-Sep-2014 19:54:21 UTC] PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\sitecc-master\wp-includes\capabilities.php on line 1102
+[24-Sep-2014 19:54:21 UTC] PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\sitecc-master\wp-includes\capabilities.php on line 1102
+[24-Sep-2014 19:54:21 UTC] PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\sitecc-master\wp-includes\capabilities.php on line 1102
+[24-Sep-2014 19:54:21 UTC] PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\sitecc-master\wp-includes\capabilities.php on line 1102
+[24-Sep-2014 19:54:21 UTC] PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\sitecc-master\wp-includes\capabilities.php on line 1102
+[24-Sep-2014 19:54:21 UTC] PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\sitecc-master\wp-includes\capabilities.php on line 1102
+[24-Sep-2014 19:54:21 UTC] PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\sitecc-master\wp-includes\capabilities.php on line 1102
+[24-Sep-2014 19:54:21 UTC] PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\sitecc-master\wp-includes\capabilities.php on line 1102
+[24-Sep-2014 19:54:21 UTC] PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\sitecc-master\wp-includes\capabilities.php on line 1102
+[24-Sep-2014 19:54:21 UTC] PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\sitecc-master\wp-includes\capabilities.php on line 1102
+[24-Sep-2014 19:54:21 UTC] PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\sitecc-master\wp-includes\capabilities.php on line 1102
+[24-Sep-2014 19:54:21 UTC] PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\sitecc-master\wp-includes\capabilities.php on line 1102
+[24-Sep-2014 19:54:21 UTC] PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\sitecc-master\wp-includes\capabilities.php on line 1102
+[24-Sep-2014 19:54:21 UTC] PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\sitecc-master\wp-includes\capabilities.php on line 1102
+[24-Sep-2014 19:54:21 UTC] PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\sitecc-master\wp-includes\capabilities.php on line 1102
+[24-Sep-2014 19:54:21 UTC] PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\sitecc-master\wp-includes\capabilities.php on line 1102
+[24-Sep-2014 19:54:21 UTC] PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\sitecc-master\wp-includes\capabilities.php on line 1102
+[24-Sep-2014 19:54:21 UTC] PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\sitecc-master\wp-includes\capabilities.php on line 1102
+[24-Sep-2014 19:54:21 UTC] PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\sitecc-master\wp-includes\capabilities.php on line 1102
+[24-Sep-2014 19:54:21 UTC] PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\sitecc-master\wp-includes\capabilities.php on line 1102
+[24-Sep-2014 19:54:21 UTC] PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\sitecc-master\wp-includes\capabilities.php on line 1102
+[24-Sep-2014 19:54:21 UTC] PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\sitecc-master\wp-includes\capabilities.php on line 1102
+[24-Sep-2014 19:54:21 UTC] PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\sitecc-master\wp-includes\capabilities.php on line 1102
+[24-Sep-2014 19:54:21 UTC] PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\sitecc-master\wp-includes\capabilities.php on line 1102
+[24-Sep-2014 19:55:02 UTC] PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\sitecc-master\wp-includes\capabilities.php on line 1102
+[24-Sep-2014 19:55:02 UTC] PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\sitecc-master\wp-includes\capabilities.php on line 1102
+[24-Sep-2014 19:55:02 UTC] PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\sitecc-master\wp-includes\capabilities.php on line 1102
+[24-Sep-2014 19:55:02 UTC] PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\sitecc-master\wp-includes\capabilities.php on line 1102
+[24-Sep-2014 19:55:02 UTC] PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\sitecc-master\wp-includes\capabilities.php on line 1102
+[24-Sep-2014 19:55:02 UTC] PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\sitecc-master\wp-includes\capabilities.php on line 1102
+[24-Sep-2014 19:55:02 UTC] PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\sitecc-master\wp-includes\capabilities.php on line 1102
+[24-Sep-2014 19:55:02 UTC] PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\sitecc-master\wp-includes\capabilities.php on line 1102
+[24-Sep-2014 19:55:02 UTC] PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\sitecc-master\wp-includes\capabilities.php on line 1102
+[24-Sep-2014 19:55:02 UTC] PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\sitecc-master\wp-includes\capabilities.php on line 1102
+[24-Sep-2014 19:55:02 UTC] PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\sitecc-master\wp-includes\capabilities.php on line 1102
+[24-Sep-2014 19:55:02 UTC] PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\sitecc-master\wp-includes\capabilities.php on line 1102
+[24-Sep-2014 19:55:02 UTC] PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\sitecc-master\wp-includes\capabilities.php on line 1102
+[24-Sep-2014 19:55:02 UTC] PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\sitecc-master\wp-includes\capabilities.php on line 1102
+[24-Sep-2014 19:55:02 UTC] PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\sitecc-master\wp-includes\capabilities.php on line 1102
+[24-Sep-2014 19:55:02 UTC] PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\sitecc-master\wp-includes\capabilities.php on line 1102
+[24-Sep-2014 19:55:02 UTC] PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\sitecc-master\wp-includes\capabilities.php on line 1102
+[24-Sep-2014 19:55:02 UTC] PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\sitecc-master\wp-includes\capabilities.php on line 1102
+[24-Sep-2014 19:55:02 UTC] PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\sitecc-master\wp-includes\capabilities.php on line 1102
+[24-Sep-2014 19:55:02 UTC] PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\sitecc-master\wp-includes\capabilities.php on line 1102
+[24-Sep-2014 19:55:02 UTC] PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\sitecc-master\wp-includes\capabilities.php on line 1102
+[24-Sep-2014 19:55:02 UTC] PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\sitecc-master\wp-includes\capabilities.php on line 1102
+[24-Sep-2014 19:55:02 UTC] PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\sitecc-master\wp-includes\capabilities.php on line 1102
+[24-Sep-2014 19:55:02 UTC] PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\sitecc-master\wp-includes\capabilities.php on line 1102
+[24-Sep-2014 19:55:02 UTC] PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\sitecc-master\wp-includes\capabilities.php on line 1102
+[24-Sep-2014 19:55:02 UTC] PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\sitecc-master\wp-includes\capabilities.php on line 1102
+[24-Sep-2014 19:55:02 UTC] PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\sitecc-master\wp-includes\capabilities.php on line 1102
+[24-Sep-2014 19:55:02 UTC] PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\sitecc-master\wp-includes\capabilities.php on line 1102
+[24-Sep-2014 19:55:02 UTC] PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\sitecc-master\wp-includes\capabilities.php on line 1102
+[24-Sep-2014 19:55:02 UTC] PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\sitecc-master\wp-includes\capabilities.php on line 1102
+[24-Sep-2014 19:55:02 UTC] PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\sitecc-master\wp-includes\capabilities.php on line 1102
+[24-Sep-2014 19:55:02 UTC] PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\sitecc-master\wp-includes\capabilities.php on line 1102
+[24-Sep-2014 19:55:02 UTC] PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\sitecc-master\wp-includes\capabilities.php on line 1102
+[24-Sep-2014 19:55:02 UTC] PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\sitecc-master\wp-includes\capabilities.php on line 1102
+[24-Sep-2014 19:55:02 UTC] PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\sitecc-master\wp-includes\capabilities.php on line 1102
+[24-Sep-2014 19:55:02 UTC] PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\sitecc-master\wp-includes\capabilities.php on line 1102
+[24-Sep-2014 19:55:02 UTC] PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\sitecc-master\wp-includes\capabilities.php on line 1102
+[24-Sep-2014 19:55:02 UTC] PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\sitecc-master\wp-includes\capabilities.php on line 1102
+[24-Sep-2014 19:55:02 UTC] PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\sitecc-master\wp-includes\capabilities.php on line 1102
+[24-Sep-2014 19:55:02 UTC] PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\sitecc-master\wp-includes\capabilities.php on line 1102
+[24-Sep-2014 19:55:02 UTC] PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\sitecc-master\wp-includes\capabilities.php on line 1102
+[24-Sep-2014 19:55:02 UTC] PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\sitecc-master\wp-includes\capabilities.php on line 1102
+[24-Sep-2014 19:55:02 UTC] PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\sitecc-master\wp-includes\capabilities.php on line 1102
+[24-Sep-2014 19:55:02 UTC] PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\sitecc-master\wp-includes\capabilities.php on line 1102
+[24-Sep-2014 19:55:02 UTC] PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\sitecc-master\wp-includes\capabilities.php on line 1102
+[24-Sep-2014 19:55:02 UTC] PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\sitecc-master\wp-includes\capabilities.php on line 1102
+[24-Sep-2014 19:55:02 UTC] PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\sitecc-master\wp-includes\capabilities.php on line 1102
+[24-Sep-2014 19:55:02 UTC] PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\sitecc-master\wp-includes\capabilities.php on line 1102
+[24-Sep-2014 19:55:02 UTC] PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\sitecc-master\wp-includes\capabilities.php on line 1102
+[24-Sep-2014 19:55:02 UTC] PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\sitecc-master\wp-includes\capabilities.php on line 1102
+[24-Sep-2014 19:55:02 UTC] PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\sitecc-master\wp-includes\capabilities.php on line 1102
+[24-Sep-2014 19:55:02 UTC] PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\sitecc-master\wp-includes\capabilities.php on line 1102
+[24-Sep-2014 19:55:02 UTC] PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\sitecc-master\wp-includes\capabilities.php on line 1102
+[24-Sep-2014 19:55:02 UTC] PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\sitecc-master\wp-includes\capabilities.php on line 1102
+[24-Sep-2014 19:57:02 UTC] PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\sitecc-master\wp-includes\capabilities.php on line 1102
+[24-Sep-2014 19:57:02 UTC] PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\sitecc-master\wp-includes\capabilities.php on line 1102
+[24-Sep-2014 19:57:02 UTC] PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\sitecc-master\wp-includes\capabilities.php on line 1102
+[24-Sep-2014 19:57:02 UTC] PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\sitecc-master\wp-includes\capabilities.php on line 1102
+[24-Sep-2014 19:57:02 UTC] PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\sitecc-master\wp-includes\capabilities.php on line 1102
+[24-Sep-2014 19:57:02 UTC] PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\sitecc-master\wp-includes\capabilities.php on line 1102
+[24-Sep-2014 19:57:02 UTC] PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\sitecc-master\wp-includes\capabilities.php on line 1102
+[24-Sep-2014 19:57:02 UTC] PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\sitecc-master\wp-includes\capabilities.php on line 1102
+[24-Sep-2014 19:57:02 UTC] PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\sitecc-master\wp-includes\capabilities.php on line 1102
+[24-Sep-2014 19:57:02 UTC] PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\sitecc-master\wp-includes\capabilities.php on line 1102
+[24-Sep-2014 19:57:02 UTC] PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\sitecc-master\wp-includes\capabilities.php on line 1102
+[24-Sep-2014 19:57:02 UTC] PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\sitecc-master\wp-includes\capabilities.php on line 1102
+[24-Sep-2014 19:57:02 UTC] PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\sitecc-master\wp-includes\capabilities.php on line 1102
+[24-Sep-2014 19:57:02 UTC] PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\sitecc-master\wp-includes\capabilities.php on line 1102
+[24-Sep-2014 19:57:02 UTC] PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\sitecc-master\wp-includes\capabilities.php on line 1102
+[24-Sep-2014 19:57:02 UTC] PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\sitecc-master\wp-includes\capabilities.php on line 1102
+[24-Sep-2014 19:57:02 UTC] PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\sitecc-master\wp-includes\capabilities.php on line 1102
+[24-Sep-2014 19:57:02 UTC] PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\sitecc-master\wp-includes\capabilities.php on line 1102
+[24-Sep-2014 19:57:02 UTC] PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\sitecc-master\wp-includes\capabilities.php on line 1102
+[24-Sep-2014 19:57:02 UTC] PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\sitecc-master\wp-includes\capabilities.php on line 1102
+[24-Sep-2014 19:57:02 UTC] PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\sitecc-master\wp-includes\capabilities.php on line 1102
+[24-Sep-2014 19:57:02 UTC] PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\sitecc-master\wp-includes\capabilities.php on line 1102
+[24-Sep-2014 19:57:02 UTC] PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\sitecc-master\wp-includes\capabilities.php on line 1102
+[24-Sep-2014 19:57:02 UTC] PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\sitecc-master\wp-includes\capabilities.php on line 1102
+[24-Sep-2014 19:57:02 UTC] PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\sitecc-master\wp-includes\capabilities.php on line 1102
+[24-Sep-2014 19:57:02 UTC] PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\sitecc-master\wp-includes\capabilities.php on line 1102
+[24-Sep-2014 19:57:02 UTC] PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\sitecc-master\wp-includes\capabilities.php on line 1102
+[24-Sep-2014 19:57:02 UTC] PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\sitecc-master\wp-includes\capabilities.php on line 1102
+[24-Sep-2014 19:57:02 UTC] PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\sitecc-master\wp-includes\capabilities.php on line 1102
+[24-Sep-2014 19:57:02 UTC] PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\sitecc-master\wp-includes\capabilities.php on line 1102
+[24-Sep-2014 19:57:02 UTC] PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\sitecc-master\wp-includes\capabilities.php on line 1102
+[24-Sep-2014 19:57:02 UTC] PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\sitecc-master\wp-includes\capabilities.php on line 1102
+[24-Sep-2014 19:57:02 UTC] PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\sitecc-master\wp-includes\capabilities.php on line 1102
+[24-Sep-2014 19:57:02 UTC] PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\sitecc-master\wp-includes\capabilities.php on line 1102
+[24-Sep-2014 19:57:02 UTC] PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\sitecc-master\wp-includes\capabilities.php on line 1102
+[24-Sep-2014 19:57:02 UTC] PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\sitecc-master\wp-includes\capabilities.php on line 1102
+[24-Sep-2014 19:57:02 UTC] PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\sitecc-master\wp-includes\capabilities.php on line 1102
+[24-Sep-2014 19:57:02 UTC] PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\sitecc-master\wp-includes\capabilities.php on line 1102
+[24-Sep-2014 19:57:02 UTC] PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\sitecc-master\wp-includes\capabilities.php on line 1102
+[24-Sep-2014 19:57:02 UTC] PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\sitecc-master\wp-includes\capabilities.php on line 1102
+[24-Sep-2014 19:57:02 UTC] PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\sitecc-master\wp-includes\capabilities.php on line 1102
+[24-Sep-2014 19:57:02 UTC] PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\sitecc-master\wp-includes\capabilities.php on line 1102
+[24-Sep-2014 19:57:02 UTC] PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\sitecc-master\wp-includes\capabilities.php on line 1102
+[24-Sep-2014 19:57:02 UTC] PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\sitecc-master\wp-includes\capabilities.php on line 1102
+[24-Sep-2014 19:57:02 UTC] PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\sitecc-master\wp-includes\capabilities.php on line 1102
+[24-Sep-2014 19:57:02 UTC] PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\sitecc-master\wp-includes\capabilities.php on line 1102
+[24-Sep-2014 19:57:02 UTC] PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\sitecc-master\wp-includes\capabilities.php on line 1102
+[24-Sep-2014 19:57:02 UTC] PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\sitecc-master\wp-includes\capabilities.php on line 1102
+[24-Sep-2014 19:57:02 UTC] PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\sitecc-master\wp-includes\capabilities.php on line 1102
+[24-Sep-2014 19:57:02 UTC] PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\sitecc-master\wp-includes\capabilities.php on line 1102
+[24-Sep-2014 19:57:02 UTC] PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\sitecc-master\wp-includes\capabilities.php on line 1102
+[24-Sep-2014 19:57:02 UTC] PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\sitecc-master\wp-includes\capabilities.php on line 1102
+[24-Sep-2014 19:57:02 UTC] PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\sitecc-master\wp-includes\capabilities.php on line 1102
+[24-Sep-2014 19:57:02 UTC] PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\sitecc-master\wp-includes\capabilities.php on line 1102
