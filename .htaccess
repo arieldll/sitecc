@@ -425,16 +425,16 @@ AddCharset utf-8 .atom .css .js .json .rss .vtt .xml
 # BEGIN WordPress
 <IfModule mod_rewrite.c>
 RewriteEngine On
-RewriteBase /
+RewriteBase /sitecc-master/
 RewriteRule ^index\.php$ - [L]
-RewriteRule ^assets/css/(.*) /wp-content/themes/sitecc/assets/css/$1 [QSA,L]
-RewriteRule ^assets/fonts/(.*) /wp-content/themes/sitecc/assets/fonts/$1 [QSA,L]
-RewriteRule ^assets/js/(.*) /wp-content/themes/sitecc/assets/js/$1 [QSA,L]
-RewriteRule ^assets/img/(.*) /wp-content/themes/sitecc/assets/img/$1 [QSA,L]
-RewriteRule ^plugins/(.*) /wp-content/plugins/$1 [QSA,L]
+RewriteRule ^assets/css/(.*) /sitecc-master/wp-content/themes/sitecc/assets/css/$1 [QSA,L]
+RewriteRule ^assets/fonts/(.*) /sitecc-master/wp-content/themes/sitecc/assets/fonts/$1 [QSA,L]
+RewriteRule ^assets/js/(.*) /sitecc-master/wp-content/themes/sitecc/assets/js/$1 [QSA,L]
+RewriteRule ^assets/img/(.*) /sitecc-master/wp-content/themes/sitecc/assets/img/$1 [QSA,L]
+RewriteRule ^plugins/(.*) /sitecc-master/wp-content/plugins/$1 [QSA,L]
 RewriteCond %{REQUEST_FILENAME} !-f
 RewriteCond %{REQUEST_FILENAME} !-d
-RewriteRule . /index.php [L]
+RewriteRule . /sitecc-master/index.php [L]
 </IfModule>
 
 # END WordPress

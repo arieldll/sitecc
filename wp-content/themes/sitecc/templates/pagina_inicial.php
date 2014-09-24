@@ -20,7 +20,7 @@ Template Name: Página Inicial
 			<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
 
 				<a class="link-rapido uffs" href="http://www.uffs.edu.br/index.php">
-					<img src="/assets/img/logo_uffs_link.png"> UFFS
+					<img src="../assets/img/logo_uffs_link.png"> UFFS
 				</a>
 
 			</div>
@@ -29,7 +29,7 @@ Template Name: Página Inicial
 		<div class="row">
 			<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
 				<a class="link-rapido" href="http://moodle.uffs.edu.br">
-					<img src="/assets/img/logo_moodle.png">
+					<img src="../assets/img/logo_moodle.png">
 				</a>
 			</div>
 		</div>
@@ -39,7 +39,7 @@ Template Name: Página Inicial
 			</div>
 			<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
 				<a class="link-rapido" href="http://www.uffs.edu.br/index.php?option=com_content&view=category&layout=blog&id=274&Itemid=853&site=biblio">
-					<img src="/assets/img/livro.png">
+					<img src="../assets/img/livro.png">
 					<br />
 					Biblioteca
 				</a>

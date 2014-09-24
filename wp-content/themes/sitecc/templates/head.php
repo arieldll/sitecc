@@ -12,5 +12,5 @@
 
   <link rel="icon" 
       type="image/png" 
-      href="<?php echo get_template_directory_uri() ?>/assets/img/favicon.png">
+      href="../assets/img/favicon.png">
 </head>

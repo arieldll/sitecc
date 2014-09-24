@@ -5,8 +5,14 @@ WP-Cache Config Sample File
 See wp-cache.php for author details.
 */
 
+$cache_time_interval = '3600'; //Added by WP-Cache Manager
+$cache_scheduled_time = '00:00'; //Added by WP-Cache Manager
+$cache_schedule_type = 'interval'; //Added by WP-Cache Manager
+$cache_page_secret = 'e67618cb120da3726715c2a22b59e11c'; //Added by WP-Cache Manager
+$wp_cache_home_path = '/sitecc-master/'; //Added by WP-Cache Manager
+$wp_cache_slash_check = 1; //Added by WP-Cache Manager
 if ( ! defined('WPCACHEHOME') )
-	define( 'WPCACHEHOME', WP_PLUGIN_DIR . '/wp-super-cache/' );
+	define( 'WPCACHEHOME', WP_CONTENT_DIR . "/plugins/wp-super-cache/" ); //Added by WP-Cache Manager
 
 $cache_compression = 0; // Super cache compression
 $cache_enabled = false;
@@ -31,7 +37,7 @@ $cache_rebuild_files = 1;
 $wp_cache_mutex_disabled = 1;
 
 // Just modify it if you have conflicts with semaphores
-$sem_id = 5419;
+$sem_id = 344244237; //Added by WP-Cache Manager
 
 if ( '/' != substr($cache_path, -1)) {
 	$cache_path .= '/';
@@ -78,5 +84,5 @@ $wp_cache_not_logged_in = 0;
 $wp_cache_clear_on_post_edit = 0;
 $wp_cache_hello_world = 0;
 $wp_cache_mobile_enabled = 0;
-$wp_cache_cron_check = 0;
+$wp_cache_cron_check = 1; //Added by WP-Cache Manager
 ?>

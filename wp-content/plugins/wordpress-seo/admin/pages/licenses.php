@@ -55,13 +55,6 @@ global $wpseo_admin_pages;
 					'desc'  => __( 'Rank better locally and in Google Maps, without breaking a sweat!', 'wordpress-seo' ),
 				);
 			}
-			if ( ! class_exists( 'wpseo_Video_Manual' ) ) {
-				$extensions['video-manuals'] = (object) array(
-					'url'   => 'https://yoast.com/wordpress/plugins/video-manual-wordpress-seo/',
-					'title' => __( 'WordPress SEO Training Videos', 'wordpress-seo' ),
-					'desc'  => __( 'Spend less time training your clients on how to use the WordPress SEO plugin!', 'wordpress-seo' ),
-				);
-			}
 			if ( class_exists( 'Woocommerce' ) && ! class_exists( 'Yoast_WooCommerce_SEO' ) ) {
 				$extensions['woocommerce-seo'] = (object) array(
 					'url'   => 'https://yoast.com/wordpress/plugins/yoast-woocommerce-seo/',
@@ -74,9 +67,13 @@ global $wpseo_admin_pages;
 				$utm = '#utm_source=wordpress-seo-config&utm_medium=banner&utm_campaign=extension-page-banners';
 			?>
 			<div class="extension <?php echo esc_attr( $id ); ?>">
-				<a target="_blank" href="<?php echo esc_url( $extension->url . $utm ); ?>"><h3><?php echo esc_html( $extension->title ); ?></h3></a>
+				<a target="_blank" href="<?php echo esc_url( $extension->url . $utm ); ?>">
+					<h3><?php echo esc_html( $extension->title ); ?></h3>
+				</a>
 				<p><?php echo esc_html( $extension->desc ); ?></p>
-				<p><a target="_blank" href="<?php echo esc_url( $extension->url . $utm ); ?>" class="button-primary"><?php esc_html_e( 'Get this extension', 'wordpress-seo' ); ?></a></p>
+				<p><a target="_blank" href="<?php echo esc_url( $extension->url . $utm ); ?>" class="button-primary">
+					<?php esc_html_e( 'Get this extension', 'wordpress-seo' ); ?>
+				</a></p>
 			</div>
 			<?php
 			}

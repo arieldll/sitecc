@@ -53,9 +53,9 @@
                 
 
                 <div class="redes-sociais">
-                    <a href="#"><img src="assets/img/bt-face.png" /></a>
-                    <a href="#"><img src="assets/img/bt-twitter.png" /></a>
-                    <a href="#"><img src="assets/img/bt-rss.png" /></a>
+                    <a href="#"><img src="../assets/img/bt-face.png" /></a>
+                    <a href="#"><img src="../assets/img/bt-twitter.png" /></a>
+                    <a href="#"><img src="../assets/img/loginLogo.png" /></a>
                 </div>
             </div>
 
